@@ -19,13 +19,10 @@ Order Processing:
 Promotions and Discounts:
 •	Apply discount on specific products or entire and on specific occasions.
 •	Set up promotions like (by one get one free).
-
-Supplier Management
+Supplier Management:
 •	Create and manage supplier profiles with their products.
-Customers Record
+Customers Record:
 •	Create and manage customer profiles by name, address, contact and purchase history.
-Sales Record
-•	Keep the record of sales weekly basis, monthly basis.
 
 Non Functional Requirements:
 •	Validations
